@@ -1,0 +1,10 @@
+import Footer from "./footer.jsx";
+import Hero from "./hero.jsx";
+import Navbar from "./navbar.jsx";
+import ManageGrades from "./managegrades.jsx";
+import CLO from "./clo.jsx";
+import AddStudents from "./addstudents.jsx";
+import Home from "./home.jsx";
+import Info from "./info.jsx";
+import Activity from "./activity.jsx";
+export { Footer, Hero, Navbar, ManageGrades, CLO, AddStudents, Home, Info, Activity};
